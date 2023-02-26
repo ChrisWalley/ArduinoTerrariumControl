@@ -1,0 +1,13 @@
+Inputs:
+
+7 temp & humid in
+
+A0 - temp setting
+A1 - humid setting
+A2 - light
+A3 - water
+
+Outputs:
+
+12 - temp
+13 - pump
